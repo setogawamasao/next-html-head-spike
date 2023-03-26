@@ -4,7 +4,7 @@
 
 # 見るべきソース
 
-- Head を共通化した部品
-  - customHead.tsx
-- 共通化した部品を呼び出したページ
-  - index.tsx
+- Head を共通化した部品  
+  [customHead.tsx](./src/pages/customHead.tsx)
+- 共通化した部品を呼び出したページ  
+  [index.tsx](./src/pages/index.tsx)
